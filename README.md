@@ -1,4 +1,4 @@
-# Blood-Cell-Chemistry-CPT
-Chemistry CPT
+# Blood-Cell-Chemistry
+HematoTech
 
 Hosted on [HuggingFace](https://huggingface.co/spaces/AustinL/HematoTech)
